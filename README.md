@@ -1,0 +1,2 @@
+# android_Threads
+In this app, the user enters 5 numbers and press “Sort Async” or “Sort Thread”. The app will sort the array using the async class (Sort Async) or the threads (Sort Thread) to process the array’s sort in background, and show the intermediate results in a text view. The final result is shown in text fields. After each interaction has a “sleep” process, that stops the execution. During the entire process, the user can interact with the seekbar, showing that the user interface is not frozen.
